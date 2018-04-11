@@ -6,6 +6,7 @@ from sklearn.datasets import fetch_california_housing
 """
 Use gradient descent to calculate the weights of a perceptron
 to fit the data in the fetch_california_housing dataset from sklearn
+view: https://github.com/ageron/handson-ml/blob/master/09_up_and_running_with_tensorflow.ipynb
 """
 
 housing = fetch_california_housing()
